@@ -1,1 +1,1 @@
-import kdot
+from kdot import check
