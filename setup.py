@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 DESCRIPTION = "A anti skid package"
 LONG_DESCRIPTION = (
     "A package that makes it easy to add anti skid to all of your (my) repos"
